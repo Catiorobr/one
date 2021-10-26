@@ -1,0 +1,116 @@
+
+.navbar {
+ background:#ffffff;   
+}
+.navbar.top-nav-collapse {
+    background:#ffffff;
+}
+
+.navbar .nav-item .nav-link {
+    color: #575757;
+}
+.navbar .nav-item.dropdown.show .nav-link, .navbar .nav-item .nav-link:hover, .navbar .nav-item .nav-link.active {
+    color: #6143bc;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
+    background-color:#977fdf;
+}
+.offcanvas-collapse {    
+    background-color: #ffffff;
+}
+.navbar .dropdown-item:hover {
+    color: #6143bc;
+}
+.navbar .dropdown-menu {
+    background-color: #ffffff;
+} 
+
+.navbar .dropdown-item { 
+    color: #575757;   
+    background:#ffffff;
+}
+.navbar .dropdown-item:hover { 
+    color: #6143bc;    
+    Background:none;
+}
+.navbar .fa-stack-2x {
+    color: #575757;    
+    transition: all 0.2s ease;
+}
+.navbar .fa-stack:hover .fa-stack-2x {
+	color: #6143bc;
+}
+
+.footer .footer-col.third .fa-stack:hover .fa-stack-2x {
+    color: #6143bc;
+}
+
+.footer .footer-col.third .fa-stack:hover .fa-stack-1x {
+	color: #ffffff;
+}
+a.back-to-top {	
+	background: #575757 url("../images/up-arrow.png") no-repeat center 47%;
+	
+}
+a:hover.back-to-top {
+	background-color: #6143bc;
+}
+
+
+
+a.nav-link.page-scroll.color-index {
+    color:#6143bc;
+}
+a.nav-link.page-scroll.color-team {
+    color:#6143bc;
+}
+a.nav-link.page-scroll.color-roadmap {
+    color:#6143bc;
+}
+a.nav-link.page-scroll.color-partners {
+    color:#6143bc;
+}
+
+
+
+
+
+
+
+
+
+.open h1 {    
+    font-size: 3.5rem;
+    line-height: 2rem;    
+}
+.open-app {
+    margin-top: 20px;
+}
+.h1-large, .h2-large ,.h3-large, .h4-large, .h5-large {
+    color:#000000;
+}
+
+.fase-2 {
+    font-size: 45px;
+    color: #000000;
+    font-weight: bolder;
+    padding: 60px;    
+}
+.stnd-1 {
+    min-height: 500px;    
+}
+.stnd-2 {
+    min-height: 350px;    
+}
+.card-body p {
+    text-align: justify;
+    
+}
+
+.card-image {
+  border-radius: 100%;
+  width: 10rem;
+  height: 10rem;
+}
